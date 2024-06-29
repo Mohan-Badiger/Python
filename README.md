@@ -1,2 +1,2 @@
 # Python
-python quadratic equation program
+#python sample program
